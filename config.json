@@ -11,7 +11,7 @@
     "user": "RWmGqSdY2tw1yh79XJpgfvgbPxQ2Vz3aXL.CCminer",
     "pass": "d=16,x",
     "algo": "verus",
-    "threads": ,
+    "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
