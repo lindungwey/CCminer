@@ -9,7 +9,7 @@
         }],
 
     "user": "RWmGqSdY2tw1yh79XJpgfvgbPxQ2Vz3aXL.CCminer",
-    "pass": "d=16,x",
+    "pass": "d=16",
     "algo": "verus",
     "threads": 8,
     "cpu-priority": 1,
