@@ -6,5 +6,5 @@ pkg update -y && pkg upgrade -y && pkg install libjansson wget nano -y && mkdir 
 https://www.profitableratecpm.com/ipy48f6v5w?key=e97cf1d299016c5623848e44ac83040a
 ```
 ```
-https://www.capcut.com/tv2/ZSPc2ukDt/
+https://www.capcut.com/tv2/ZS5hKWEmH/
 ```
